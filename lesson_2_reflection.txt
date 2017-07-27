@@ -3,4 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 	Git creates a empty repository. 
 	I need run git init 
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+    It is a temporary area where you have the files you are sure you want to commit.It keeps files with complete work.
