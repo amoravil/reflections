@@ -11,3 +11,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     I can add to the staging area all files that are involved in a logical change before to make a commit and without the problem to forget which are in working process and which ones are ready to commit.
      
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	when I want to make an experiment or new version for specific users. it helps me to keep the main version clean
