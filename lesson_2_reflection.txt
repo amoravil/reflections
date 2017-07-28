@@ -25,3 +25,9 @@ What is the result of merging two branches together? Why do we represent it in t
 	any differences. that commit now allow to the branch that you checked
 	out. as the new commit has two parents we represent it with a line 
 	to the two commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git doesn't know our code logic and can produce unexpected behaviours. 
+	always doing merges manually can bring unnecesary overload of work.
+	
