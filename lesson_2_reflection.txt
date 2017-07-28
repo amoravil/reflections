@@ -18,3 +18,10 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	I can see the repository like a tree and understand where each branch takes place.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	one commit that has all information of the two branches after resolve 
+	any differences. that commit now allow to the branch that you checked
+	out. as the new commit has two parents we represent it with a line 
+	to the two commits.
