@@ -31,7 +31,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+  email and shared directory with all of version in diferent subdirectors.
+  ok for one file without many changes because you don't need a big infraescture
+  harder for an active project, or many files
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
