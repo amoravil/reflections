@@ -41,3 +41,27 @@ master?  What benefits does each approach have?
     fix defects, new functionality, experiments 
     or just to keep organized my work and clean the product in master.
     
+
+final quiz
+
+Repository: https://github.com/udacity/create-your-own-adventure.git
+
+1. fork to amoravil: option in GitHub
+now in: https://github.com/amoravil/create-your-own-adventure.git
+
+2. clone local: 
+  git clone https://github.com/amoravil/create-your-own-adventure.git
+
+3. create a branch: 
+  git branch my-adventure
+  git checkout my-adventure 
+
+      'You could make your changes directly to the master branch in your fork, but when contributing to a public repository, it’s standard practice to make the changes in a non-master branch within the fork. This way, you can easily keep your master branch up-to-date with master of the original repository, and merge changes from master into your branch when you are ready.'
+
+4. Collaborative with my adventure
+      vi arqueros.md 
+      git add arqueros.md
+      git commit
+      git push origin my-adventure
+      create a pull request in GitHub (original-master, fork-my-adventure)
+    
